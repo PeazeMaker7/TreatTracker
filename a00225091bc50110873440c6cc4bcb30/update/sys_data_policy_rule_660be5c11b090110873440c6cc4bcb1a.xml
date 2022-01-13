@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_data_policy_rule">
+    <sys_data_policy_rule action="INSERT_OR_UPDATE">
+        <disabled>ignore</disabled>
+        <field>location</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_data_policy_rule</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-12 23:07:27</sys_created_on>
+        <sys_data_policy display_value="Sets the Location field to mandatory">ea0be5c11b090110873440c6cc4bcb17</sys_data_policy>
+        <sys_id>660be5c11b090110873440c6cc4bcb1a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>location</sys_name>
+        <sys_package display_value="Office Treat Tracker" source="x_746709_office_tr">a00225091bc50110873440c6cc4bcb30</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Office Treat Tracker">a00225091bc50110873440c6cc4bcb30</sys_scope>
+        <sys_update_name>sys_data_policy_rule_660be5c11b090110873440c6cc4bcb1a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-12 23:07:27</sys_updated_on>
+        <table>x_746709_office_tr_office_treats</table>
+    </sys_data_policy_rule>
+</record_update>

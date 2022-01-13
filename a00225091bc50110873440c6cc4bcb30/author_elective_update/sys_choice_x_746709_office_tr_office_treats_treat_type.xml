@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="treat_type" table="x_746709_office_tr_office_treats" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>treat_type</element>
+            <name>x_746709_office_tr_office_treats</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-12 23:07:27</sys_created_on>
+            <sys_id>be0be5c11b090110873440c6cc4bcb2e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>treat_type</sys_name>
+            <sys_package display_value="Office Treat Tracker" source="x_746709_office_tr">a00225091bc50110873440c6cc4bcb30</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Office Treat Tracker">a00225091bc50110873440c6cc4bcb30</sys_scope>
+            <sys_update_name>sys_choice_x_746709_office_tr_office_treats_treat_type</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-12 23:07:27</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>treat_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other</label>
+            <language>en</language>
+            <name>x_746709_office_tr_office_treats</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-12 23:15:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fddce14d1bc50110873440c6cc4bcb1b</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-12 23:15:37</sys_updated_on>
+            <value>other</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>treat_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Salty</label>
+            <language>en</language>
+            <name>x_746709_office_tr_office_treats</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-12 23:07:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>760be5c11b090110873440c6cc4bcb31</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-12 23:07:27</sys_updated_on>
+            <value>salty</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>treat_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Sweet</label>
+            <language>en</language>
+            <name>x_746709_office_tr_office_treats</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-12 23:07:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f20be5c11b090110873440c6cc4bcb2e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-12 23:07:27</sys_updated_on>
+            <value>sweet</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

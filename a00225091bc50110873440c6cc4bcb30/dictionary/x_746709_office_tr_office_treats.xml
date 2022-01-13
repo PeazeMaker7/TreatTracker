@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Office Treats" max_length="40" name="x_746709_office_tr_office_treats" sizeclass="0" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Date" max_length="40" name="date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Description" max_length="40" name="description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Employee Name" max_length="125" name="employee_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="break_room" label="Location" max_length="40" name="location" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Break Room" value="break_room"/>
+                <element inactive_on_update="false" label="Front Desk" value="front_desk"/>
+                <element inactive_on_update="false" label="Lunch Room" value="lunch_room"/>
+                <element inactive_on_update="false" label="Other" value="other"/>
+            </choice>
+        </element>
+        <element label="Notes" max_length="125" name="notes" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="sweet" label="Treat Type" max_length="40" name="treat_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Other" value="other"/>
+                <element inactive_on_update="false" label="Salty" value="salty"/>
+                <element inactive_on_update="false" label="Sweet" value="sweet"/>
+            </choice>
+        </element>
+    </element>
+</database>

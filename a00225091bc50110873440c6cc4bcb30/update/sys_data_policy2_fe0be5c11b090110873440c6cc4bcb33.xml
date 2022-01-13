@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_data_policy2">
+    <sys_data_policy2 action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <apply_import_set>true</apply_import_set>
+        <apply_soap>true</apply_soap>
+        <conditions/>
+        <description/>
+        <enforce_ui>true</enforce_ui>
+        <inherit>false</inherit>
+        <model_id/>
+        <model_table>x_746709_office_tr_office_treats</model_table>
+        <reverse_if_false>true</reverse_if_false>
+        <short_description>Sets the Treat Type field to mandatory</short_description>
+        <sys_class_name>sys_data_policy2</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-12 23:07:27</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>fe0be5c11b090110873440c6cc4bcb33</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Sets the Treat Type field to mandatory</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Office Treat Tracker" source="x_746709_office_tr">a00225091bc50110873440c6cc4bcb30</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Office Treat Tracker">a00225091bc50110873440c6cc4bcb30</sys_scope>
+        <sys_update_name>sys_data_policy2_fe0be5c11b090110873440c6cc4bcb33</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-12 23:07:27</sys_updated_on>
+    </sys_data_policy2>
+</record_update>
